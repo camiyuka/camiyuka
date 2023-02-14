@@ -2,11 +2,7 @@
 - 📕 atualmente estudando HTML, CSS e JS
 - 💻 cursando análise e desenvolvimento de sistemas 
 
-
-  <img height="180em"   align="left" src="https://github-readme-stats.vercel.app/api?username=camiyuka&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- 
-
-  <img align="center" width="500" height="270" src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif">
+  <img align="left" width="500" height="270" src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif">
  
   <div  align="center"> 
   <div style="display: inline_block"><br>
