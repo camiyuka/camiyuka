@@ -1,4 +1,4 @@
-## oii aqui é a camila! 
+## oii aqui é a cami! 
 - 📕 atualmente estudando HTML, CSS e JS
 - 💻 cursando análise e desenvolvimento de sistemas 
 
