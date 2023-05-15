@@ -1,5 +1,5 @@
 ## camila yatabe
-- 📕 atualmente estudando HTML, CSS e JS
+- 📕 atualmente estudando Java e Ciência de dados
 - 💻 cursando análise e desenvolvimento de sistemas 
 
   <img align="left" width="500" height="270" src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif">
