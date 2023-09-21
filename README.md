@@ -1,5 +1,5 @@
 ## camila yatabe
-- 📕 atualmente estudando Java e Ciência de dados
+- 📕 atualmente estudando Inteligência Artificial e API com Python
 - 💻 cursando análise e desenvolvimento de sistemas 
  
 <div  align="center"> 
