@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=30&center=true&vCenter=true&width=1000&lines=👩‍💻+Olá,+sou+a+Camila,+seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=30&center=true&vCenter=true&width=1000&lines=👩‍💻+Hi,+I'm++Camila,+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📕 Estudando na área de Engenharia de Dados
