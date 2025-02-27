@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15232B&size=30&center=true&vCenter=true&width=1000&lines=👩‍💻+Hi!+I'm++Camila,+welcome+to+my+profile.)](https://git.io/typing-svg)
 
-- 💻 Fourth semester of Computer Science studies
+- 💻 Brazillian developer
 - 📕 Treinee in Data Engineering
 
   
